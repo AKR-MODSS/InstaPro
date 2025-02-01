@@ -1,10 +1,10 @@
 { 
 
-   "force_update":false,
+   "force_update":true,
 
    "version":1.0,
 
-   "changelog":"
+   "changelog":Added endi"
 
    \n[Base] 328.0.0.42.90!
 
