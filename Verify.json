@@ -1,8 +1,8 @@
 { 
 
-   "force_update":true,
+   "force_update":false,
 
-   "version":1.0,
+   "version":10.5,
 
    "changelog":Added endi"
 
